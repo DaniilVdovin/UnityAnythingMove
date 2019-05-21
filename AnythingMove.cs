@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WallMove : MonoBehaviour
+public class AnythingMove : MonoBehaviour
 {
     public enum Moveble { FORWARDAndSTOP, СYCLE }
     public enum dir { ToA, ToB }
