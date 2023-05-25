@@ -1,5 +1,3 @@
-# UnitySupportDocx
-All my note from unity project
 ## [AnythingMove.cs](AnythingMove.cs)
 What it ? And how it's work
 >This is a script for smooth movement of any object in the 3D world (work and for 2D) as flexible as possible for any project.
@@ -16,9 +14,6 @@ Just check it
 * wall - it's wall with this script
 * point A - it's point A XD
 * point B - ...... buuuuut you know :) 
-
-### Maybe we will watching code ?
-### Yes, I think
 
 ## CODE
 ```C#
